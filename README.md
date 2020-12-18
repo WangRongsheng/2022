@@ -1,5 +1,7 @@
 # 2022
 
+> 更详细的考研指导：https://github.com/WangRongsheng/for-Graduate_student
+
 ## 34所自主划线院校
 
 > 数据来自[中国研究生在线网](http://www.yanxian.org/html/baokao/28179.html)
